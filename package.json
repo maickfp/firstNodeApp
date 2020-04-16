@@ -1,0 +1,19 @@
+{
+  "name": "makeitrealapp",
+  "version": "1.0.0",
+  "description": "Primera aplicacion en Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.JS",
+    "NPM",
+    "npm",
+    "node",
+    "Node",
+    "MakeItReal"
+  ],
+  "author": "Michael Fernandez",
+  "license": "ISC"
+}
