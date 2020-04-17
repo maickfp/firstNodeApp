@@ -15,5 +15,8 @@
     "MakeItReal"
   ],
   "author": "Michael Fernandez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
 }
